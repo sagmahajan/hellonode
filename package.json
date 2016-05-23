@@ -1,0 +1,15 @@
+{
+  "name": "myrestaurant-app",
+  "version": "1.0.0",
+  "description": "Restro app using EJS ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar Mahajan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
